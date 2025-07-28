@@ -2,5 +2,5 @@
   (Ref: https://huggingface.co/learn/llm-course/chapter7/5)
 
 - **Folder Content:**
-  - TG_Data_Preparation.ipynb: Colab notebook to preprocess the data.
-  - Data: Folder containing the preprocessed train, validation, and test datasets used to train and test the model.
+  - tg_data_preparation.py: Python file from Colab notebook to preprocess the data.
+  - Data.zip: Zipped folder containing the preprocessed train, validation, and test datasets used to train and test the model.
